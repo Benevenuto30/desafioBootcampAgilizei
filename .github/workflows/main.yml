@@ -41,7 +41,8 @@ jobs:
       - run: npm run cy:run
       
       # Gerar o relatório
-      - run: npm run report:tests
+      - run: npm run report:merge
+      - run: npm run report:mocha
       
       # Publicar o relatorio em HTML
       - name: Deploy to GitHubPages
