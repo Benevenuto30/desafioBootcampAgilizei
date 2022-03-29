@@ -3,7 +3,7 @@ let Chance = require('chance')
 let chance = new Chance()
 context('Cadastro', () => {
     it('Cadastro de usuario no site', () => {
-        cy.visit('/index.php');
+        cy.visit('http://automationpractice.com/index.php?controller=authentication&back=my-account');
         cy.get('input#email_create').type(chance.email())
         cy.get('button#SubmitCreate').click()
         cy.get('input#id_gender1').check()
