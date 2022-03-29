@@ -1,4 +1,4 @@
-const reporter = require('cucumber-html-reporter');
+const reporter = require('mochawesome-report-generator');
 
 const options = {
     theme: 'bootstrap',
