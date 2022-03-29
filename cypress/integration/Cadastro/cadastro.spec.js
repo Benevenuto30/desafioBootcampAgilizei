@@ -20,6 +20,6 @@ context('Cadastro', () => {
         cy.get('input#phone_mobile').type(chance.phone({formatted: false}));
         cy.get('button#submitAccount').click()
         cy.contains('Welcome to your account. Here you can manage all of your personal information and orders.')
-        cy.url().should('be.equal', 'http://automationpractice.com/index.php?controller=my-account')
+        cy.url().should('be.equal', 'http://automationpractice.com/index.php?controller=my-account');
     })
 })
