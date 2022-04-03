@@ -39,7 +39,7 @@ Fluxo do cenário de "Cadastrar um novo usuário":
 ## Projeto rodando
 
 <p align="center">
-    <img width="460" height="300" src="assets/cadastro.spec.js.gif">
+    <img width="460" height="300" src="assets/cadastro.gif">
 </p>
 
 ## Como rodar o projeto
