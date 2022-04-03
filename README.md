@@ -8,7 +8,7 @@ Cenário que deve ser implementado
 
 Fluxo do cenário de "Cadastrar um novo usuário":
 
-- Acessar o site automation practice http://automationpractice.com
+- Acessar o site [automation practice](http://automationpractice.com)
 
 - Clicar no botão de Sign in
 
@@ -44,7 +44,7 @@ Fluxo do cenário de "Cadastrar um novo usuário":
 
 ## Como rodar o projeto
 
-1 - Instalar na sua máquina o node
+1 - Instalar na sua máquina o [node](https://nodejs.org/pt-br/download/)
 
 2 - Com o projeto clonado, entrar na raiz e rodar o comando npm install e aguardar todos os downloads serem feitos
 
