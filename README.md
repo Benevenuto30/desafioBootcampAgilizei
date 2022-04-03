@@ -34,12 +34,12 @@ Fluxo do cenário de "Cadastrar um novo usuário":
 
 4 - GitHub actions configurado para que cada commit realizado rode a pipe de testes
 
-5 - Podemos ver os relatórios no GH Pages pelo [link] (https://benevenuto30.github.io/desafioBootcampAgilizei/)
+5 - Podemos ver os relatórios no GH Pages pelo [link](https://benevenuto30.github.io/desafioBootcampAgilizei/)
 
 ## Projeto rodando
 
 <p align="center">
-    <img width="460" height="300" src="assets/cadastro.spec.gif">
+    <img width="460" height="300" src="src/assets/cadastro.spec.gif">
 </p>
 
 ## Como rodar o projeto
