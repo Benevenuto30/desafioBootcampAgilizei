@@ -12,3 +12,4 @@ cypress/videos
 
 #outros
 .DS_Store
+.vscode
